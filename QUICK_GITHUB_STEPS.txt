@@ -1,0 +1,62 @@
+================================================================================
+                    QUICK GUIDE: Push to GitHub with GitHub Desktop
+================================================================================
+
+STEP 1: Download GitHub Desktop
+        https://desktop.github.com/download/
+        Click "Download for Windows (64bit)"
+
+STEP 2: Install
+        - Open the downloaded file
+        - Wait for install
+        - GitHub Desktop opens automatically
+
+STEP 3: Sign In
+        - Click "Sign in to GitHub.com"
+        - Browser opens -> Sign in
+        - Username: mattaini-tech
+        - Click "Authorize"
+
+STEP 4: Add Repository
+        - Click "Add local repository"
+        - Choose: C:\Users\matth\Sample
+        - Click "Select Folder"
+        
+        If it says "not a git repository":
+        - Click "create a repository"
+        - Click "Create Repository"
+
+STEP 5: Commit Your Files
+        - You'll see all your files listed on the left
+        - At bottom left, enter message: 
+          "Initial commit: cursortryout forum app"
+        - Click blue "Commit to main" button
+
+STEP 6: Publish to GitHub
+        - Click "Publish repository" at the top
+        - Uncheck "Keep this code private" (if you want it public)
+        - Click "Publish repository"
+
+STEP 7: Done! 🎉
+        Visit: https://github.com/mattaini-tech/cursortryout
+        Your code is live!
+
+================================================================================
+
+IMPORTANT: Keep GitHub Desktop open after publishing.
+           Whenever you make code changes, it will automatically detect them!
+
+Future updates:
+    1. Make changes to your code
+    2. Open GitHub Desktop (it shows changes)
+    3. Write commit message
+    4. Click "Commit to main"
+    5. Click "Push origin"
+    Done!
+
+================================================================================
+
+Need detailed help? Read: GITHUB_DESKTOP_GUIDE.md
+
+================================================================================
+
